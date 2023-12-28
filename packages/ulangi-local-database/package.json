@@ -41,7 +41,7 @@
     "jest": "^23.6.0",
     "jest-extended": "^0.11.0",
     "prettier": "1.17.1",
-    "sqlite3": "^4.0.4",
+    "sqlite3": "^5.0.0",
     "tmp-promise": "^1.0.5",
     "ts-jest": "^23.10.5",
     "ts-node": "^4.0.1",
